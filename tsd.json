@@ -1,0 +1,15 @@
+{
+  "version": "v4",
+  "repo": "borisyankov/DefinitelyTyped",
+  "ref": "master",
+  "path": "typings",
+  "bundle": "typings/tsd.d.ts",
+  "installed": {
+    "lodash/lodash-3.10.d.ts": {
+      "commit": "6dd42d2c25ef67f9c1530ee94778e37294c0947e"
+    },
+    "node/node-0.12.d.ts": {
+      "commit": "6dd42d2c25ef67f9c1530ee94778e37294c0947e"
+    }
+  }
+}
